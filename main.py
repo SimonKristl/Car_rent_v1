@@ -22,12 +22,6 @@ def shop_menu():
     print("2 add new employe")
     print("3 close shop_menu")
 
-# system = RentalSystem(
-#     salesman=[Salesman("Milan", "Novák", 125),
-#               Salesman("Petr", "Hucko", 85),
-#                           ],
-#     cars=[Car("Toyta", "SUV", "Red"),
-#           Car("Škoda", "Superb", "White"),])
 
 while True:
     print_customer()
